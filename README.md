@@ -7,6 +7,11 @@ A simple Flutter application that links to a GitHub repository and HNG Hire Page
 - [GitHub Repository](https://github.com/haywhyzero/HNGprojects)
 - [HNG Hire Pages](http://hng.tech/hire/flutter-developers')
 
+## Dependencies
+- flutter:
+    sdk: flutter
+- url_launcher: ^6.0.20
+
 ## Getting Started
 
 To clone and run this application, follow these steps:
